@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<<<<<<< HEAD
 <!-- Last Published: June 18, 2023 --><html lang="en-us" >
-=======
-<!-- Last Published: April 15, 2023 --><html lang="en-us" >
->>>>>>> 893a232b9c321310ba20d27ac06aba64d37bdac3
 
 
 <head>
@@ -455,7 +451,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="84a876ba789bb7232be8d9ed2487fd98" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="bf1eb249db79f10ace7d22321494165a" >
 
   
   
@@ -587,43 +583,6 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/#about"><span>Home</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
-            <a class="nav-link " href="/#research"><span>Research</span></a>
           </li>
 
           
@@ -827,38 +786,47 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h1 id="r-markdown">R Markdown</h1>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener">http://rmarkdown.rstudio.com</a>.</p>
+      
+
+
+<div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
 <p>You can embed an R code chunk like this:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">summary</span><span class="p">(</span><span class="n">cars</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="c1">##      speed           dist       </span>
-</span></span><span class="line"><span class="cl"><span class="c1">##  Min.   : 4.0   Min.   :  2.00  </span>
-</span></span><span class="line"><span class="cl"><span class="c1">##  1st Qu.:12.0   1st Qu.: 26.00  </span>
-</span></span><span class="line"><span class="cl"><span class="c1">##  Median :15.0   Median : 36.00  </span>
-</span></span><span class="line"><span class="cl"><span class="c1">##  Mean   :15.4   Mean   : 42.98  </span>
-</span></span><span class="line"><span class="cl"><span class="c1">##  3rd Qu.:19.0   3rd Qu.: 56.00  </span>
-</span></span><span class="line"><span class="cl"><span class="c1">##  Max.   :25.0   Max.   :120.00</span>
-</span></span><span class="line"><span class="cl"><span class="n">fit</span> <span class="o">&lt;-</span> <span class="nf">lm</span><span class="p">(</span><span class="n">dist</span> <span class="o">~</span> <span class="n">speed</span><span class="p">,</span> <span class="n">data</span> <span class="o">=</span> <span class="n">cars</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="n">fit</span>
-</span></span><span class="line"><span class="cl"><span class="c1">## </span>
-</span></span><span class="line"><span class="cl"><span class="c1">## Call:</span>
-</span></span><span class="line"><span class="cl"><span class="c1">## lm(formula = dist ~ speed, data = cars)</span>
-</span></span><span class="line"><span class="cl"><span class="c1">## </span>
-</span></span><span class="line"><span class="cl"><span class="c1">## Coefficients:</span>
-</span></span><span class="line"><span class="cl"><span class="c1">## (Intercept)        speed  </span>
-</span></span><span class="line"><span class="cl"><span class="c1">##     -17.579        3.932</span>
-</span></span></code></pre></div><h1 id="including-plots">Including Plots</h1>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
 <p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">par</span><span class="p">(</span><span class="n">mar</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span> <span class="m">1</span><span class="p">,</span> <span class="m">0</span><span class="p">,</span> <span class="m">1</span><span class="p">))</span>
-</span></span><span class="line"><span class="cl"><span class="nf">pie</span><span class="p">(</span>
-</span></span><span class="line"><span class="cl">  <span class="nf">c</span><span class="p">(</span><span class="m">280</span><span class="p">,</span> <span class="m">60</span><span class="p">,</span> <span class="m">20</span><span class="p">),</span>
-</span></span><span class="line"><span class="cl">  <span class="nf">c</span><span class="p">(</span><span class="s">&#39;Sky&#39;</span><span class="p">,</span> <span class="s">&#39;Sunny side of pyramid&#39;</span><span class="p">,</span> <span class="s">&#39;Shady side of pyramid&#39;</span><span class="p">),</span>
-</span></span><span class="line"><span class="cl">  <span class="n">col</span> <span class="o">=</span> <span class="nf">c</span><span class="p">(</span><span class="s">&#39;#0292D8&#39;</span><span class="p">,</span> <span class="s">&#39;#F7EA39&#39;</span><span class="p">,</span> <span class="s">&#39;#C4B632&#39;</span><span class="p">),</span>
-</span></span><span class="line"><span class="cl">  <span class="n">init.angle</span> <span class="o">=</span> <span class="m">-50</span><span class="p">,</span> <span class="n">border</span> <span class="o">=</span> <span class="kc">NA</span>
-</span></span><span class="line"><span class="cl"><span class="p">)</span>
-</span></span></code></pre></div><div class="figure">
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span style="display:block;" id="fig:pie"></span>
 <img src="https://dkazibwe.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">Figure 1: A fancy pie chart.</p>
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
 </div>
 
     </div>
