@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Kazibwe</title>
-    <link>https://dkazibwe.github.io/publication/</link>
-      <atom:link href="https://dkazibwe.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>0 | Kazibwe</title>
+    <link>https://dkazibwe.github.io/publication-type/0/</link>
+      <atom:link href="https://dkazibwe.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dkazibwe.github.io/media/icon_hufc9e7f5f98359c0a8e9c1505018b63cf_269251_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://dkazibwe.github.io/publication/</link>
+      <title>0</title>
+      <link>https://dkazibwe.github.io/publication-type/0/</link>
     </image>
     
     <item>

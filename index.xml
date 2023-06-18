@@ -37,28 +37,14 @@
       <link>https://dkazibwe.github.io/publication/conference-paper/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://dkazibwe.github.io/publication/conference-paper/</guid>
-      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;#Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;#Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Universal Secondary Education, Schooling, and Women Empowerment: Evidence from Uganda</title>
-      <link>https://dkazibwe.github.io/publication/preprint/</link>
-      <pubDate>Sun, 30 Apr 2023 22:45:34 -0600</pubDate>
-      <guid>https://dkazibwe.github.io/publication/preprint/</guid>
+      <title>Violent Conflicts and Educational Outcomes: The LRA Insurgency in Northern Uganda Revisited</title>
+      <link>https://dkazibwe.github.io/publication/working-paper/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/working-paper/</guid>
       <description></description>
     </item>
     
@@ -296,7 +282,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-754869123&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-618579342&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -306,7 +292,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-754869123&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-618579342&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -771,6 +757,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Early Life Economic Shocks and Child Health Outcomes:Evidence from Kenya</title>
+      <link>https://dkazibwe.github.io/publication/journal-article/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://dkazibwe.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -789,25 +783,6 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://dkazibwe.github.io/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://dkazibwe.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
