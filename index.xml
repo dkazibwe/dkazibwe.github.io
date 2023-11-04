@@ -33,18 +33,34 @@
     </item>
     
     <item>
-      <title>Universal Secondary Education, Schooling and Women&#39;s Empowerment: Evidence from Uganda</title>
-      <link>https://dkazibwe.github.io/publication/conference-paper/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/conference-paper/</guid>
+      <title>Violent Conflicts and Educational Outcomes: The LRA Insurgency in Northern Uganda Revisited</title>
+      <link>https://dkazibwe.github.io/publication/working-paper/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/working-paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Violent Conflicts and Educational Outcomes: The LRA Insurgency in Northern Uganda Revisited</title>
-      <link>https://dkazibwe.github.io/publication/working-paper/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/working-paper/</guid>
+      <title>State Capacity and the Provision of Public Goods: Evidence from District Splitting in Uganda</title>
+      <link>https://dkazibwe.github.io/publication/project/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Agricultural Shocks on Human Capital Development in Ethiopia</title>
+      <link>https://dkazibwe.github.io/publication/progress/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Secondary Education, Schooling and Women&#39;s Empowerment: Evidence from Uganda</title>
+      <link>https://dkazibwe.github.io/publication/conference-paper/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
     
@@ -282,7 +298,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-581249763&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-874925316&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -292,7 +308,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-581249763&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-874925316&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -757,7 +773,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Early Life Economic Shocks and Child Health Outcomes:Evidence from Kenya</title>
+      <title>Early Life Economic Shocks and Child Health Outcomes: Evidence from Kenya</title>
       <link>https://dkazibwe.github.io/publication/journal-article/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://dkazibwe.github.io/publication/journal-article/</guid>
