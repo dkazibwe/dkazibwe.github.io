@@ -41,14 +41,6 @@
     </item>
     
     <item>
-      <title>State Capacity and the Provision of Public Goods: Evidence from District Splitting in Uganda</title>
-      <link>https://dkazibwe.github.io/publication/project/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Impact of Agricultural Shocks on Human Capital Development in Ethiopia</title>
       <link>https://dkazibwe.github.io/publication/progress/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
@@ -61,6 +53,14 @@
       <link>https://dkazibwe.github.io/publication/conference-paper/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://dkazibwe.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Capacity and the Provision of Public Goods: Evidence from District Splitting in Uganda</title>
+      <link>https://dkazibwe.github.io/publication/project/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/project/</guid>
       <description></description>
     </item>
     
@@ -195,6 +195,14 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Early Life Economic Shocks and Child Health Outcomes: Evidence from Kenya</title>
+      <link>https://dkazibwe.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Markdown</title>
       <link>https://dkazibwe.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -298,7 +306,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-379481652&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-517489326&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -308,7 +316,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-379481652&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-517489326&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -770,14 +778,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Early Life Economic Shocks and Child Health Outcomes: Evidence from Kenya</title>
-      <link>https://dkazibwe.github.io/publication/journal-article/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/journal-article/</guid>
-      <description></description>
     </item>
     
     <item>
