@@ -41,14 +41,6 @@
     </item>
     
     <item>
-      <title>Impact of Agricultural Shocks on Human Capital Development in Ethiopia</title>
-      <link>https://dkazibwe.github.io/publication/progress/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Universal Secondary Education, Schooling and Women&#39;s Empowerment: Evidence from Uganda</title>
       <link>https://dkazibwe.github.io/publication/conference-paper/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
@@ -61,6 +53,14 @@
       <link>https://dkazibwe.github.io/publication/project/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>https://dkazibwe.github.io/publication/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Agricultural Shocks on Human Capital Development in Ethiopia</title>
+      <link>https://dkazibwe.github.io/publication/progress/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/progress/</guid>
       <description></description>
     </item>
     
@@ -306,7 +306,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-893457216&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-485762319&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -316,7 +316,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-893457216&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-485762319&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
