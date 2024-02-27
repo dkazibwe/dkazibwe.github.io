@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Prevalence of Intimate Partner Violence in Uganda: The Role of Education</title>
+      <link>https://dkazibwe.github.io/publication/violence/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Violent Conflicts and Educational Outcomes: The LRA Insurgency in Northern Uganda Revisited</title>
       <link>https://dkazibwe.github.io/publication/working-paper/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -306,7 +314,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-235187496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-538247619&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -316,7 +324,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-235187496&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-538247619&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
