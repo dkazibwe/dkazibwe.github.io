@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts | Douglas Kazibwe</title>
-    <link>https://dkazibwe.github.io/contact/</link>
-      <atom:link href="https://dkazibwe.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/contact/</link>
+      <atom:link href="http://localhost:4321/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contacts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://dkazibwe.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
       <title>Contacts</title>
-      <link>https://dkazibwe.github.io/contact/</link>
+      <link>http://localhost:4321/contact/</link>
     </image>
     
   </channel>

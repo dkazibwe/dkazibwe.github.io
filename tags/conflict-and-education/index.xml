@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conflict and Education | Douglas Kazibwe</title>
-    <link>https://dkazibwe.github.io/tags/conflict-and-education/</link>
-      <atom:link href="https://dkazibwe.github.io/tags/conflict-and-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/conflict-and-education/</link>
+      <atom:link href="http://localhost:4321/tags/conflict-and-education/index.xml" rel="self" type="application/rss+xml" />
     <description>Conflict and Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dkazibwe.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
       <title>Conflict and Education</title>
-      <link>https://dkazibwe.github.io/tags/conflict-and-education/</link>
+      <link>http://localhost:4321/tags/conflict-and-education/</link>
     </image>
     
     <item>
       <title>Violent Conflicts and Education: The LRA Insurgency in Northern Uganda Revisited</title>
-      <link>https://dkazibwe.github.io/publication/journal-article/</link>
+      <link>http://localhost:4321/publication/journal-article/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/journal-article/</guid>
+      <guid>http://localhost:4321/publication/journal-article/</guid>
       <description></description>
     </item>
     

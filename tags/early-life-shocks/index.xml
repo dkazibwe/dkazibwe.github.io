@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Early Life Shocks | Douglas Kazibwe</title>
-    <link>https://dkazibwe.github.io/tags/early-life-shocks/</link>
-      <atom:link href="https://dkazibwe.github.io/tags/early-life-shocks/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/early-life-shocks/</link>
+      <atom:link href="http://localhost:4321/tags/early-life-shocks/index.xml" rel="self" type="application/rss+xml" />
     <description>Early Life Shocks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dkazibwe.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
       <title>Early Life Shocks</title>
-      <link>https://dkazibwe.github.io/tags/early-life-shocks/</link>
+      <link>http://localhost:4321/tags/early-life-shocks/</link>
     </image>
     
     <item>
       <title>Agricultural shocks and child health: the impact of desert locust outbreaks on child health in Ethiopia</title>
-      <link>https://dkazibwe.github.io/publication/locust/</link>
+      <link>http://localhost:4321/publication/locust/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/locust/</guid>
+      <guid>http://localhost:4321/publication/locust/</guid>
       <description></description>
     </item>
     

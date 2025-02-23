@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Women’s Empowerment | Douglas Kazibwe</title>
-    <link>https://dkazibwe.github.io/tags/womens-empowerment/</link>
-      <atom:link href="https://dkazibwe.github.io/tags/womens-empowerment/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/womens-empowerment/</link>
+      <atom:link href="http://localhost:4321/tags/womens-empowerment/index.xml" rel="self" type="application/rss+xml" />
     <description>Women’s Empowerment</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dkazibwe.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
       <title>Women’s Empowerment</title>
-      <link>https://dkazibwe.github.io/tags/womens-empowerment/</link>
+      <link>http://localhost:4321/tags/womens-empowerment/</link>
     </image>
     
     <item>
       <title>Prevalence of Intimate Partner Violence in Uganda: The Role of Education</title>
-      <link>https://dkazibwe.github.io/publication/conference-paper/</link>
+      <link>http://localhost:4321/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://dkazibwe.github.io/publication/conference-paper/</guid>
+      <guid>http://localhost:4321/publication/conference-paper/</guid>
       <description></description>
     </item>
     
