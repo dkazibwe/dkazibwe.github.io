@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Working | Douglas Kazibwe</title>
+    <link>https://dkazibwe.github.io/publication_types/paper-working/</link>
+      <atom:link href="https://dkazibwe.github.io/publication_types/paper-working/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Working</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dkazibwe.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Paper-Working</title>
+      <link>https://dkazibwe.github.io/publication_types/paper-working/</link>
+    </image>
+    
+    <item>
+      <title>Early Life Economic Shocks and Child Health Outcomes: Evidence from Kenya</title>
+      <link>https://dkazibwe.github.io/publication/master/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/master/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Douglas Kazibwe</title>
+    <link>https://dkazibwe.github.io/publication/</link>
+      <atom:link href="https://dkazibwe.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dkazibwe.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>https://dkazibwe.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Universal Secondary Education, Schooling and Women’s Empowerment: Evidence from Uganda</title>
+      <link>https://dkazibwe.github.io/publication/preprint/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Violent Conflicts and Education: The LRA Insurgency in Northern Uganda Revisited</title>
+      <link>https://dkazibwe.github.io/publication/journal-article/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence of Intimate Partner Violence in Uganda: The Role of Education</title>
+      <link>https://dkazibwe.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural shocks and child health: the impact of desert locust outbreaks on child health in Ethiopia</title>
+      <link>https://dkazibwe.github.io/publication/locust/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/locust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Capacity and the Provision of Public Goods: Evidence from District Splitting in Uganda</title>
+      <link>https://dkazibwe.github.io/publication/project/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Life Economic Shocks and Child Health Outcomes: Evidence from Kenya</title>
+      <link>https://dkazibwe.github.io/publication/master/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://dkazibwe.github.io/publication/master/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
